@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(/absr.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+li{
+    display: inline; 
+    margin: 20px;
+    padding: 5px;
+    border: 0px;
+}
+table,th,td{
+    border: 1px solid blue;
+    border-style: solid;
+}
+.Arace{
+    font-style: italic;
+
+}
+img{
+    width: 500px;
+}
+p{
+    color: rgb(0, 0, 12);
+    font-size: 20px;
+}
+.goal{
+    text-align: center;
+}
+/*link*/
+a{
+    color: brown;
+}
+a:hover{
+    color: skyblue;
+}
+a:visited{
+    color: green;
+}
